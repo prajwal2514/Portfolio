@@ -1087,7 +1087,7 @@ header {
 }
 header .row {
 	position: relative;
-	min-height: 0px;
+	min-height: 66px;
 }
 header .top-bar {
 	/* display:; */
@@ -1233,7 +1233,7 @@ header{
 /* dropdown nav */
 .main-navigation {
 	background: #000000;
-	padding: 24px 30px 42px;
+	padding: 24px 0px 42px;
 	margin: 0;
 	width: 100%;
 	height: auto;

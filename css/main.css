@@ -1087,7 +1087,7 @@ header {
 }
 header .row {
 	position: relative;
-	min-height: 66px;
+	min-height: 0px;
 }
 header .top-bar {
 	/* display:; */
